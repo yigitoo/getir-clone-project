@@ -1,0 +1,80 @@
+[
+    {
+      "id" : 1,  
+      "title" : "Getir'i Keşfedin",
+      "items" : [
+        {
+          "subTitle" : "Hakkımızda",
+          "url" : "https://getir.com/hakkimizda/"
+        },
+        {
+          "subTitle" : "Kariyer",
+          "url" : "https://apply.workable.com/getir/"
+        },
+        {
+          "subTitle" : "Teknoloji Kariyerleri",
+          "url" : "https://technology.getir.com/"
+        },
+        {
+          "subTitle" : "İletişim",
+          "url" : "https://getir.com/hakkimizda/iletisim/"
+        },
+        {
+          "subTitle" : "COVID-19 Duyuru",
+          "url" : "https://getir.com/duyuru/"
+        },
+        {
+          "subTitle" : "Sosyal Sorumluluk Projeleri",
+          "url" : "https://getir.com/sosyal-sorumluluk-projeleri/"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "title" : "Yardıma mı ihtiyacınız var?",
+      "items" : [
+        {
+          "subTitle" : "Sıkça Sorulan Sorular",
+          "url" : "https://getir.com/yardim/sss/"
+        },
+        {
+          "subTitle" : "Kişisel Verilerin Korunması",
+          "url" : "https://getir.com/yardim/kvkk/"
+        },
+        {
+          "subTitle" : "Gizlilik Politikası",
+          "url" : "https://getir.com/yardim/gizlilik-politikasi/"
+        },
+        {
+          "subTitle" : "Kullanım Koşulları",
+          "url" : "https://getir.com/yardim/kullanim-kosullari/"
+        },
+        {
+          "subTitle" : "Çerez Politikası",
+          "url" : "https://getir.com/yardim/cerez-politikasi/"
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "title" : "İş Ortağımız Olun",
+      "items" : [
+        {
+          "subTitle" : "Bayimiz Olun",
+          "url" : "https://bayi-basvuru.getir.com/"
+        },
+        {
+          "subTitle" : "Deponuzu Kiralayın",
+          "url" : "https://depodukkan.getir.com/"
+        },
+        {
+          "subTitle" : "GetirYemek Restoranı Olun",
+          "url" : "https://basvuru.getir.com/restoran/"
+        },
+        {
+          "subTitle" : "GetirÇarşı İşletmesi Olun",
+          "url" : "https://panel.getircarsi.com/form/pre-application"
+        }
+      ]
+    }
+]
